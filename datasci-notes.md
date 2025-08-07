@@ -1,4 +1,4 @@
-# DataSci Notes: A Comprehensive Guide to Data Science
+# DataSci Notes
 
 ## Core Libraries & Data Structures
 
